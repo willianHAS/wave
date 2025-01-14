@@ -15,4 +15,4 @@ A simple personal website built using **HTML** and **CSS**. The goal is to pract
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wave/personal-website.git
+   [git clone https://github.com/wave/personal-website.git](https://github.com/willianHAS/wave.git)
