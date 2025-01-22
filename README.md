@@ -3,7 +3,7 @@
 ## Description
 A simple personal website built using **HTML** and **CSS**. The goal is to practice front-end development skills and create a clean and responsive design.
 
-## Feature
+## Features
 - Responsive layout
 - Clean and minimalist design
 - Easy to navigate
