@@ -5,7 +5,7 @@ A simple personal website built using **HTML** and **CSS**. The goal is to pract
 
 ## Features
 - Responsive layout
-- Clean and minimalist design
+- Clean and minimalist design 
 - Easy to navigate
  
 ## Technologies
